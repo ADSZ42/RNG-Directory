@@ -1,0 +1,36 @@
+body{
+    background: url(../Assets/Infin.jpg) no-repeat center fixed;
+    background-size: cover;
+}
+
+.boxSize{
+    height:180px;
+    border-radius: 1px;
+    outline-style: ridge;
+}
+
+.boxSize1{
+    height:auto;
+    width: 400px;
+    border-radius: 1px;
+    outline-style: ridge;
+}
+
+.ctr{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text-center{
+    color: aqua;
+}
+
+.container1{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.bt-siz{
+    width:300px;
+    height: 75px;
+}
