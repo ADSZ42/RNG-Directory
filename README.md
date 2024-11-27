@@ -2,9 +2,9 @@
 Anthony Duran
 11/26/2024 
 
-Peer Reviewed By:
+Peer Reviewed By: Bronel Lazar
 
-Comment:
+Comment: The generator actually works great! I think it was a pretty unique way of doing it too. It looks nice, just the blue was a little hard for me to read. Theres not too much for me to say about this, you're doing a great job!
 
 ____________________________________________________________________________________________________________
 
